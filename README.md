@@ -76,7 +76,7 @@
     <div class="section">
         <h2>Intellectual Property</h2>
         <div class="section-content">
-            <p>The Hub and its content, including but not limited to text, graphics, logos, images, and software, are protected by intellectual property laws and are the exclusive property of [Your Company Name] or its licensors. You agree not to reproduce, distribute, modify, or create derivative works of any part of the Hub without our prior written consent.</p>
+            <p>The Hub and its content, including but not limited to text, graphics, logos, images, and software, are protected by intellectual property laws and are the exclusive property of The Community Business Hub or its licensors. You agree not to reproduce, distribute, modify, or create derivative works of any part of the Hub without our prior written consent.</p>
             <p>You retain ownership of any intellectual property rights that you hold in your User Content. However, by submitting User Content on the Hub, you grant us a non-exclusive, worldwide, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform your User Content in connection with the Hub and our business operations.</p>
         </div>
     </div>
