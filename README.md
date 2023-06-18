@@ -256,12 +256,7 @@
       <div class="box">
         <h3>Contact</h3>
         <p>Email: contact@thehub.com</p>
-        </div>
-      <div class="box">
-        <h3>About Us</h3>
-        <p>By using The Hub, you agree to our Terms of Service and Privacy Policy. Please read them carefully before accessing or using our platform.</p>
-      </div>
-    </div>
+        </div></div>
     <div class="footer-container">
       <div class="box" onclick="window.location.href = 'https://oavo33.github.io/GitHubz/';">
         <h3>What Do You Think About Our Community Hub?</h3>
