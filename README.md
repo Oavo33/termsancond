@@ -225,8 +225,7 @@ footer {
     </div>
     <footer><div class="footer-container">
             <div class="box">
-                <h3>Contact</h3>
-                <p>Email: contact@thehub.com</p>
+                <p>Contact<br>Email: contact@thehub.com</p>
             </div>
   <div class="footer-container">
     <div class="box"><div class="box">
