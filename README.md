@@ -30,99 +30,44 @@
         }
         .list-item {
             margin-bottom: 5px;
-        }footer {
-      background: linear-gradient(to bottom, #ffffff, #00b3b3);
-      padding: 30px;
-      color: #ffffff;
-      text-align: center;
-      font-size: 14px;
-    }
-    .footer-container {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-    }
-    .footer-container .box {
-      background-color: #00b3b3;
-      color: #ffffff;
-      border-radius: 10px;
-      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-      padding: 4px;
-      text-align: center;
-      margin: 7px auto;
-    }
-    .footer-container .box h3 {
-      font-size: 14px;
-      margin: 0;
-      padding: 7px 0;
-      color: #ffffff;
-    }
-    .footer-container .box p {
-      font-size: 14px;
-      margin: 0;
-      padding: 7px 0;
-      color: #ffffff;
-    }
-    .footer-container .box:first-child {
-      border: 1px solid #ffffff;
-    }
-    .footer-container .box:last-child {
-      border: 1px solid #ffffff;
-    }
-    .social {
-      display: flex;
-      flex-direction: row;
-      align-items: flex-start;
-      justify-content: center;
-      margin-top: 20px;
-    }
-    .social a {
-      display: flex;
-      align-items: center;
-      text-decoration: none;
-      margin-right: 10px;
-    }
-    .social a img {
-      width: 30px;
-      height: 30px;
-      background: none;
-      transition: all 0.3s ease;
-    }
-    .social a span {
-      display: none;
-      position: absolute;
-      top: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      margin-top: 5px;
-      font-family: 'Roboto', sans-serif;
-      font-size: 16px;
-      font-weight: bold;
-      color: #00b3b3;
-      white-space: nowrap;
-    }
-    .social a:hover img {
-      width: 40px;
-      height: 40px;
-    }
-    .social a:hover span {
-      display: block;
-    }
-    .tcbhg {
-      text-align: center;
-      margin-top: 7px;
-    }
-    .tcbhg a {
-      color: #00b3b3;
-      text-decoration: none;
-    }
-    .tcbhg a:hover {
-      text-decoration: underline;
-    }</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-RZG8MP5HRX"></script>
+        }.social {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 20px; 
+  }
+  .social a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  .social a img {
+    width: 30px;
+    height: 30px;
+    background: none;
+    transition: all 0.3s ease;
+  }
+  .social a span {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #00b3b3;
+    white-space: nowrap;
+  }
+  .social a:hover img {
+    width: 40px;
+    height: 40px;
+  }
+  .social a:hover span {
+    display: block;}</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-RZG8MP5HRX"></script>
 </head><body>
     <h1>Terms and Conditions</h1>
     <div class="section">
