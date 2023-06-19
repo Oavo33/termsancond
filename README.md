@@ -223,7 +223,11 @@ footer {
             <p>These terms and conditions shall be governed by and construed in accordance with the laws of England and Wales. Any disputes arising out of or relating to these terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
         </div>
     </div>
-    <footer>
+    <footer><div class="footer-container">
+            <div class="box">
+                <h3>Contact</h3>
+                <p>Email: contact@thehub.com</p>
+            </div>
   <div class="footer-container">
     <div class="box"><div class="box">
   <p>By using The Hub, you agree to our <a href="https://oavo33.github.io/termsancond/" style="color: pink;">Terms and conditions</a> and <a href="https://oavo33.github.io/policy/" style="color: pink;">Privacy Policy</a>. Please read them carefully before accessing or using our platform.</p>
