@@ -208,7 +208,7 @@ footer {
     <div class="section">
         <h2>Privacy</h2>
         <div class="section-content">
-            <p>Your privacy is important to us. Our <a href="privacy.html">Privacy Policy</a> explains how we collect, use, and protect your personal information when you use the Hub. By using the Hub, you consent to the collection and use of your information as described in our Privacy Policy.</p>
+            <p>Your privacy is important to us. Our Privacy Policy explains how we collect, use, and protect your personal information when you use the Hub. By using the Hub, you consent to the collection and use of your information as described in our Privacy Policy.</p>
         </div>
     </div>
     <div class="section">
